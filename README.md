@@ -1,6 +1,6 @@
 # Studies-on-Special-Topic-in-Public-Health-Spring2021
 
-Independent Study  
+## Independent Study  
 Department of Public Health, NTU  
 Dec. 2020–May 2021  
 Taipei, Taiwan  
